@@ -213,10 +213,10 @@ Se cuentan las transiciones entre estados.
 Ejemplo:
 
 ```
-2 → 2
-2 → 3
-3 → 1
-1 → 0
+2 → 2   del estado dos a dos pasaron 5 veces
+2 → 3  del estado dos a tres pasaron 4 veces 
+3 → 1  del estado tres a uno pasaron 1 vez
+1 → 0   del estado uno a cero pasaron 6 veces
 ```
 
 En el código:
