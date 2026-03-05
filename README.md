@@ -6,7 +6,7 @@ La aplicación descarga datos desde **Binance**, calcula **retornos y volatilida
 
 El objetivo es analizar **si el mercado del bitcoin tiene mayor probabilidad de subir o bajar en el corto plazo** utilizando estadística de transiciones de estados.
 
-**Esta aplicacion es un trabajo final para el curso de BMA22- PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION** 
+**Esta aplicacion es un trabajo final para el curso de BMA22- PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION de la Universidad Nacional de Ingenieria** 
 ---
 
 # 🚀 Características
