@@ -139,8 +139,8 @@ returns.add((prices[i] - prices[i - 1]) / prices[i - 1]);
 
 Los retornos permiten medir:
 
-- dirección del movimiento
-- intensidad del cambio
+- dirección del movimiento (cuanto sube o baja el bitcoin ,alza baja,+ -)
+- intensidad del cambio (cuantificar la subida o bajada en base a un conjunto de puntos vecinos)
 
 ---
 
