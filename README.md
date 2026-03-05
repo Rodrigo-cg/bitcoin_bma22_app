@@ -96,7 +96,7 @@ Por defecto:
 rollingWindow = 200
 ```
 
-Pero el usuario puede modificarlo desde la interfaz.
+Pero el usuario puede modificarlo desde la interfaz, se recomienda un rolling window de 50 o 100 dado a que el mercado del bitcoin son muy cambiantes , son muy laterales y la matriz de markov dependen del ultimo estado por lo que menos puntos apuntan a lo que paso mas en el estado anterior a predecir
 
 Ejemplo:
 
