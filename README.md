@@ -308,7 +308,10 @@ La app incluye una función llamada:
 ¿Qué hubiera pasado?
 ```
 
-Esta función simula **10 operaciones consecutivas** usando el modelo.
+Esta función predice **10 operaciones consecutivas** usando el modelo, ayuda para ver en tiempo real que hubiera pasado si hubiera hecho caso al modelo
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/04d36428-475d-4e9d-bedf-310a9dbd7da9" />
+
 
 Cada operación realiza:
 
