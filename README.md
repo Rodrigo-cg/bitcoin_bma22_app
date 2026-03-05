@@ -247,6 +247,7 @@ Cada fila representa:
 ```
 Probabilidad del siguiente estado dado el estado actual
 ```
+<img width="1390" height="1170" alt="image" src="https://github.com/user-attachments/assets/aa8241b5-92f8-423c-adc0-31812882f0e6" />
 
 ---
 
