@@ -1,11 +1,11 @@
-# 📈 BTC Markov Trading App
+# 📈 BTC Markov Trading App Proyecto Final de Curso BMA22-M--- Rodrigo Arturo Cespedes Gonzales
 
 Aplicación móvil desarrollada en **Flutter** que muestra el **precio de Bitcoin en tiempo real** y utiliza **Cadenas de Markov** para analizar la probabilidad de movimientos futuros del mercado.
 
 La aplicación descarga datos desde **Binance**, calcula **retornos y volatilidad**, construye una **matriz de transición de Markov**, y predice el **estado más probable del mercado** en un intervalo de tiempo seleccionado.
 
-El objetivo es analizar **si el mercado tiene mayor probabilidad de subir o bajar en el corto plazo** utilizando estadística de transiciones de estados.
-
+El objetivo es analizar **si el mercado del bitcoin tiene mayor probabilidad de subir o bajar en el corto plazo** utilizando estadística de transiciones de estados.
+**Esta aplicacion es un trabajo final para el curso de BMA22- PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION** 
 ---
 
 # 🚀 Características
@@ -25,6 +25,8 @@ El objetivo es analizar **si el mercado tiene mayor probabilidad de subir o baja
 # 📊 Gráfico del precio
 
 La aplicación muestra un **gráfico interactivo del precio de Bitcoin** utilizando la librería:
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/792f693a-76b4-477d-aad8-489029d806b9" />
 
 ```
 fl_chart
@@ -419,6 +421,6 @@ Este proyecto **no constituye asesoría financiera**.
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Autor Rodrigo Arturo Cespedes Gonzales
 
 Proyecto desarrollado en **Flutter + Dart** como aplicación experimental de análisis de mercado utilizando **Cadenas de Markov** aplicadas al precio de Bitcoin.
