@@ -312,6 +312,7 @@ Esta función predice **10 operaciones consecutivas** usando el modelo, ayuda pa
 
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/04d36428-475d-4e9d-bedf-310a9dbd7da9" />
 
+**Obviamente que para una mejor prediccion se hara con intervalos de 2 min 5 min 10 min y 1 h , ya que la matriz de markov se recarga con los ultimos N datos en minutos no SEGUNDOS , aparte que la grafica contiene maximo 600 datos = 600 minutos = 10 horas** 
 
 Cada operación realiza:
 
