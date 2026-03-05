@@ -26,12 +26,11 @@ El objetivo es analizar **si el mercado del bitcoin tiene mayor probabilidad de 
 # 📊 Gráfico del precio
 
 La aplicación muestra un **gráfico interactivo del precio de Bitcoin** utilizando la librería:
-
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/792f693a-76b4-477d-aad8-489029d806b9" />
-
 ```
 fl_chart
 ```
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/792f693a-76b4-477d-aad8-489029d806b9" />
 
 El gráfico muestra:
 
