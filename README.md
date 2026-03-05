@@ -403,6 +403,9 @@ flutter run
 
 El modelo puede mejorarse integrando:
 
+<img width="577" height="68" alt="image" src="https://github.com/user-attachments/assets/1c4138be-89fe-4507-9c89-4761b1079081" />
+
+
 - redes neuronales (LSTM)
 - modelos híbridos Markov + Machine Learning
 - indicadores técnicos (RSI, MACD)
@@ -411,6 +414,7 @@ El modelo puede mejorarse integrando:
 - modelos de volatilidad como **GARCH**
 - aprendizaje automático para optimizar estados
 
+La api misma me arroja los datos de volumen y numero de trades que pudiera usarlo en un modelo neuronal
 ---
 
 # ⚠️ Advertencia
