@@ -429,6 +429,12 @@ El trading con criptomonedas implica **alto riesgo**.
 Este proyecto **no constituye asesoría financiera**.
 
 ---
+## Descargar la aplicación
+
+Puedes descargar la APK directamente desde aquí:
+
+[Descargar BotBTCBma22.apk](BotBTCBma22.apk)
+---
 
 # 👨‍💻 Autor Rodrigo Arturo Cespedes Gonzales
 
